@@ -1,9 +1,4 @@
 # Hi, I'm Prerna Mishra 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![LangChain](https://img.shields.io/badge/LangChain-green?logo=chainlink)
-![Gemini](https://img.shields.io/badge/Google_Gemini-blue?logo=google)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 🚀 Exploring the intersection of **Machine Learning, LLMs, and Agentic AI**
 
