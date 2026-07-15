@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prerna Mishra</h1>
-<h3 align="center">AI/ML Engineer | Generative AI | Machine Learning</h3>
+<h3 align="center">AI/ML Engineer • Generative AI • Machine Learning</h3>
 
 <p align="center">
-Building AI applications with LLMs, RAG, Multi-Agent Systems, and Machine Learning.
+Building intelligent AI applications with LLMs, RAG, Multi-Agent Systems, and Machine Learning.
 </p>
 
 ---
@@ -11,150 +11,74 @@ Building AI applications with LLMs, RAG, Multi-Agent Systems, and Machine Learni
 
 🎓 B.Sc. (Hons) Computer Science @ University of Delhi (CGPA: **8.27/10**)
 
-🤖 Passionate about building production-ready AI applications using **LLMs, RAG, AI Agents, FastAPI, and Machine Learning**.
+💡 Passionate about building production-ready AI applications that solve real-world problems.
 
-💡 I enjoy solving real-world problems through intelligent systems—from Retrieval-Augmented Generation pipelines to deployed ML APIs.
+🚀 Interested in Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), and Machine Learning.
 
-🌱 Currently exploring
-
-- Agentic AI
-- LangGraph
-- Advanced RAG Architectures
-- LLM Evaluation
-- AI System Design
+🌱 Currently learning **LangGraph, LLMOps, Advanced RAG, and AI System Design.**
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
 ### Languages
-- Python
-- SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Machine Learning
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- NLP
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Generative AI
-- Google Gemini
-- LangChain
-- Hugging Face Transformers
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Multi-Agent Systems
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge)
 
 ### Vector Databases
-- FAISS
-- ChromaDB
-- Sentence Transformers
-- Semantic Search
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F61?style=for-the-badge)
 
 ### Backend
-- FastAPI
-- Flask
-- REST APIs
-- SQLAlchemy
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 
 ### Data Science
-- Pandas
-- NumPy
-- Matplotlib
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ### Deployment & DevOps
-- Docker
-- GitHub Actions
-- Google Cloud Platform (Basics)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Tools
-- Git
-- GitHub
-- Postman
-- Jupyter Notebook
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 Interview Preparation Assistant
+✨ Interview Preparation Assistant
 
-**Tech:** FastAPI • LangChain • Gemini • FAISS • Sentence Transformers • RAG
+✨ Multi-Agent Research Assistant
 
-An AI-powered interview preparation system that converts resumes into personalized interview questions and evaluates answers using semantic similarity.
+✨ Student Exam Performance Predictor
 
-### Highlights
-
-- Resume-based interview question generation
-- RAG pipeline using FAISS
-- Semantic answer evaluation
-- Session history support
-- 6 REST APIs
-- Retrieval latency under **100 ms**
+> Explore my repositories to learn more about these projects.
 
 ---
 
-## 🤖 Multi-Agent Research Assistant
-
-**Tech:** FastAPI • Gemini • LangChain • ChromaDB • Docker • SQLite
-
-A complete multi-agent research workflow consisting of:
-
-- Planner Agent
-- Search Agent
-- Summarizer Agent
-- Writer Agent
-
-Features:
-
-- Live web research
-- RAG-based document Q&A
-- Conversational memory
-- Modular agent architecture
-- Dockerized deployment
-- 10+ REST APIs
-
----
-
-## 📊 Student Exam Performance Predictor
-
-**Tech:** Python • Scikit-learn • CatBoost • Flask • Render
-
-An end-to-end machine learning application for predicting student exam scores.
-
-Highlights:
-
-- Data preprocessing pipeline
-- Feature engineering
-- Model benchmarking
-- CatBoost (R² = 0.88)
-- Flask deployment
-- Structured logging & error handling
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prerna-m01&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-m01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-- LangGraph
-- Advanced Agentic AI
-- LLMOps
-- AI Evaluation Frameworks
-- Cloud Deployment
-
----
 
 ## 📫 Connect With Me
 
@@ -162,12 +86,4 @@ Highlights:
 
 💼 **LinkedIn:** https://linkedin.com/in/prernamishra01
 
-💻 **GitHub:** https://github.com/prerna-m01
-
----
-
-## 💭 Quote
-
-> "Building AI that doesn't just generate answers—but solves real-world problems."
-
-⭐ If you like my projects, consider giving them a star!
+🐙 **GitHub:** https://github.com/prerna-m01
