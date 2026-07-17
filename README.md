@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prerna Mishra</h1>
+<h1 align="center">Hi, I'm Prerna Mishra</h1>
 <h3 align="center">AI/ML Engineer • Generative AI • Machine Learning</h3>
 
 <p align="center">
