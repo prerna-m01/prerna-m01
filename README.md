@@ -78,8 +78,6 @@ Currently learning **LangGraph, LLMOps, Advanced RAG, and AI System Design.**
 
 ## 📫 Connect With Me
 
-📧 **Email:** prernamishraa11@gmail.com
-
 💼 **LinkedIn:** https://linkedin.com/in/prernamishra01
 
 🐙 **GitHub:** https://github.com/prerna-m01
