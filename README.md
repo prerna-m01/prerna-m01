@@ -9,13 +9,10 @@ Building intelligent AI applications with LLMs, RAG, Multi-Agent Systems, and Ma
 
 ## 👩‍💻 About Me
 
-🎓 B.Sc. (Hons) Computer Science @ University of Delhi (CGPA: **8.27/10**)
-
-💡 Passionate about building production-ready AI applications that solve real-world problems.
-
-🚀 Interested in Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), and Machine Learning.
-
-🌱 Currently learning **LangGraph, LLMOps, Advanced RAG, and AI System Design.**
+B.Sc. (Hons) Computer Science @ University of Delhi
+Passionate about building production-ready AI applications that solve real-world problems.
+Interested in Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), and Machine Learning.
+Currently learning **LangGraph, LLMOps, Advanced RAG, and AI System Design.**
 
 ---
 
